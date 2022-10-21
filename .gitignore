@@ -1,0 +1,8 @@
+.idea
+.vscode
+.DS_Store
+*~
+_*
+
+# simdata available on Google Drive
+datafiles/simdata
